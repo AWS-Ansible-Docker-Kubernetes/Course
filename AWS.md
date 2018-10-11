@@ -1,15 +1,19 @@
 # AWS Services
 
-### 1. VPC
+### VPC
 
-### 2. EC2
+### EC2
 
-### 3. IAM
+### IAM
 
-### 4. Elastic Block Store(EBS), Simple Storage Service(S3)
+### Elastic Load Balancer
 
-### 5. CloudWatch
+### Auto Scaling
 
-### 6. AWS Elastic Beanstalk
+### Elastic Block Store(EBS), Simple Storage Service(S3)
 
-### 7. Route53
+### CloudWatch
+
+### AWS Elastic Beanstalk
+
+### Route53
