@@ -4,6 +4,8 @@
 
 ### EC2
 
+### Snapshopts & AMI
+
 ### IAM
 
 ### Elastic Load Balancer
