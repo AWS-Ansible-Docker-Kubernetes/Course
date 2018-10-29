@@ -24,13 +24,11 @@
 
 ### IAM
 
-### Elastic Load Balancer
+### RDS
 
-### Auto Scaling
+### Simple Storage Service(S3)
 
-### Elastic Block Store(EBS), Simple Storage Service(S3)
-
-### CloudWatch
+### Cloud Watch, Cloud Formation etc
 
 ### AWS Elastic Beanstalk
 
