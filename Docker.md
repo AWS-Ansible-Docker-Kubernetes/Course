@@ -2,22 +2,56 @@
 
 ### About docker
 
-### Docker installation on RHEL, Ubuntu etc
+    * Docker installation on RHEL, Ubuntu, Amazon AMI etc.
 
-### Docker files, images & containers
+    * Docker files.
+    
+    * Docker images.
+    
+    * Docker containers.
+    
+    * Docker volumes.
 
 ### Docker commands & examples
 
-### Docker Volumes
+    * Docker commands.
+    
+    * Practice on Docker images for jenkins, sonar, nexus, nexus, nginx, selenium etc.
 
-### Jenkins with Docker example
+### Docker Hub
+
+    * Docker repository on docker hub.
+    
+    * Docker tag.
+    
+    * Docker push.
+    
+    * Docker private registry setup using Nexus.
+
+### Example on Jenkins + Github + Maven + Nexus + Docker.
 
 ### Docker Compose
+
+    * Building images using Docker compose.
+    
+    * Writing docker-compose yml files.
+    
+    * Practice with DevOps setuo uisng Docker compose.
 
 ### Docker Compose - real time example to setup DevOps
 
 ### Dokcer Machine
 
+    * Docker hosts.
+    
+    * Creating EC2 instances.
+
 ### Docker Swarm
 
+    * SWAM Mode.
+    
+    * Docker services.
+
 ### Docker Stacks
+
+    * Deployments to docker swam.
