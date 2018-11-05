@@ -54,6 +54,8 @@
     * SWAM Mode.
     
     * Docker services.
+    
+    * Deployments.
 
 ### Docker Stacks
 
