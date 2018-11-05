@@ -77,4 +77,4 @@
      * Route 53 Hosted Zones 
 
 
-### Note: The above Course will cover the topics for AWS Solution Architect Associate Certification.
+### Note: The above course will cover the topics for - AWS Solution Architect Associate Certification.
