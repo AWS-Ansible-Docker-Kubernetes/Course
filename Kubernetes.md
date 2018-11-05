@@ -1,6 +1,6 @@
 # Kubernetes(k8s) course
 
-### 1. Kubernetes Archetecture, about Kubernetes
+### 1. About k8s & its archetecture
 
     * kubernetes-cni
     
