@@ -1,6 +1,6 @@
 # Kubernetes course
 
-### Kubernetes Archetecture, about Kubernetes
+### 1. Kubernetes Archetecture, about Kubernetes
 
     * kubernetes-cni
     
@@ -22,11 +22,11 @@
     
     * pod
 
-### Docker Swarm vs k8s.
+### 2. Docker Swarm vs k8s.
 
-### nodes, pods, deployments, services, labels, replica sets, namespace, volume etc
+### 3. nodes, pods, deployments, services, labels, replica sets, namespace, volume etc
 
-### Single-node cluster - minikube
+### 4. Single-node cluster - minikube
 
     * Single-node cluster setup
 
@@ -34,7 +34,7 @@
     
     * Creating services
 
-### Multi-node cluster  - kubeadm/kops
+### 5. Multi-node cluster  - kubeadm/kops
 
     * provisioning the AWS EC2 instances
     
@@ -46,7 +46,7 @@
     
     * Creating/updating/removing services
 
-### kubectl commands & examples.
+### 6. kubectl commands & examples.
 
     * kubectl expose
     
@@ -70,5 +70,5 @@
     
     * kubectl exec
 
-### Example on Jenkins + Github + maven + nexus + docker + k8s.
+### 7. Examples on Jenkins + Github + maven + nexus + docker + k8s.
 
