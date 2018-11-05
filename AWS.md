@@ -32,6 +32,11 @@
 
 ### IAM
 
+     ● IAM Overview
+     ● IAM Policies
+     ● IAM Users
+     ● IAM Groups
+     ● IAM Roles
 ### RDS
 
     
@@ -43,3 +48,6 @@
 ### AWS Elastic Beanstalk
 
 ### Route53
+
+
+### Note: The above Course will cover the topics for AWS Solution Architect Associate Certification.
