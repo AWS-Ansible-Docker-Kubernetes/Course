@@ -1,6 +1,6 @@
 # AWS Services
 
-### EC2
+### 1. EC2
 
       * EC2 Overview
       
@@ -20,7 +20,7 @@
             * EBS Snapshots
             * AWS CLI
 
-### VPC
+### 2. VPC
 
      * What is VPC?
      
@@ -36,7 +36,7 @@
      
      * Elastic IPs
 
-### IAM
+### 3. IAM
 
      * IAM Overview
      * IAM Policies
@@ -44,13 +44,13 @@
      * IAM Groups
      * IAM Roles
   
-### RDS
+### 4. RDS
 
     * Databases Overview
     
     * Amazon Relational Database Service (RDS)
 
-### Simple Storage Service(S3)
+### 5. Simple Storage Service(S3)
 
     * Amazon S3 Overview
     
@@ -64,11 +64,13 @@
     
     * S3 storage classes
 
-### Cloud Watch, Cloud Formation etc
+### 6. Monitoring - Cloud Watch
 
-### AWS Elastic Beanstalk
+### 7. Cloud Formation
 
-### Route53
+### 8. AWS Elastic Beanstalk
+
+### 9. Route53
 
      * Amazon Route 53 Overview
      
