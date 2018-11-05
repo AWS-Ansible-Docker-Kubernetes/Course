@@ -40,7 +40,7 @@
     
     * multi-node cluster setup
     
-    * master and node
+    * master and worker node
 
     * Creating/updating/removing deployments
     
