@@ -1,4 +1,4 @@
-# Kubernetes course
+# Kubernetes(k8s) course
 
 ### 1. Kubernetes Archetecture, about Kubernetes
 
