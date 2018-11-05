@@ -26,28 +26,55 @@
      
      * Subnet
      
-     * NAT
+     * Nat Gateways
     
-     * IGW
+     * Internet Gateway
+     
+     * Security Group
+     
+     * Route Tables
+     
+     * Elastic IPs
 
 ### IAM
 
-     ● IAM Overview
-     ● IAM Policies
-     ● IAM Users
-     ● IAM Groups
-     ● IAM Roles
+     * IAM Overview
+     * IAM Policies
+     * IAM Users
+     * IAM Groups
+     * IAM Roles
+  
 ### RDS
 
+    * Databases Overview
     
+    * Amazon Relational Database Service (RDS)
 
 ### Simple Storage Service(S3)
+
+    * Amazon S3 Overview
+    
+    * S3 bucket
+    
+    * Version Control
+   
+    * Amazon S3 Lifecycle Management
+    
+    * Security and Encryption
+    
+    * S3 storage classes
 
 ### Cloud Watch, Cloud Formation etc
 
 ### AWS Elastic Beanstalk
 
 ### Route53
+
+     * Amazon Route 53 Overview
+     
+     * DNS
+     
+     * Route 53 Hosted Zones 
 
 
 ### Note: The above Course will cover the topics for AWS Solution Architect Associate Certification.
