@@ -1,7 +1,6 @@
 # Kubernetes(k8s) course
 
-![image](https://user-images.githubusercontent.com/24622526/48014966-e4134680-e14d-11e8-91d9-813dd7c38be4.png)
-
+![image](https://user-images.githubusercontent.com/24622526/48015484-4456b800-e14f-11e8-876a-498cd73db5c1.png)
 
 
 ### 1. About k8s & its archetecture
