@@ -1,5 +1,8 @@
 # Kubernetes(k8s) course
 
+![image](https://user-images.githubusercontent.com/24622526/48014645-238d6300-e14d-11e8-8dd9-0d400a5c0850.png)
+
+
 ### 1. About k8s & its archetecture
 
     * kubernetes-cni
