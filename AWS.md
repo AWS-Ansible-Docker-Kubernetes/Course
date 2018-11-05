@@ -1,7 +1,5 @@
 # AWS Services
 
-### VPC
-
 ### EC2
 
       * EC2 Overview
@@ -22,9 +20,21 @@
             * EBS Snapshots
             * AWS CLI
 
+### VPC
+
+     * What is VPC?
+     
+     * Subnet
+     
+     * NAT
+    
+     * IGW
+
 ### IAM
 
 ### RDS
+
+    
 
 ### Simple Storage Service(S3)
 
