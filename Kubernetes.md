@@ -21,7 +21,7 @@
     
     * kube-controller-manager
     
-    * master, worker node
+    * node (master & worker)
     
     * pod
 
@@ -36,6 +36,8 @@
     * Creating deployments
     
     * Creating services
+    
+    * Monitor (dashboard)
 
 ### 5. Multi-node cluster  - kubeadm/kops
 
@@ -45,9 +47,9 @@
     
     * master and worker node
 
-    * Creating/updating/removing deployments
+    * Creating/updating/removing/rollback deployments
     
-    * Creating/updating/removing services
+    * Creating/updating/removing/rollback services
 
 ### 6. kubectl commands & examples.
 
@@ -74,4 +76,18 @@
     * kubectl exec
 
 ### 7. Examples on Jenkins + Github + maven + nexus + docker + k8s.
+
+    * Jenkins, git, maven, nexus, docker, k8s installation on AWS EC2 instance
+    
+    * Jenkins job setup as to 
+    
+         * checkout the code from Github
+         
+         * build/package using maven
+         
+         * build the docker file to create docker images
+         
+         * push the docker images to dockerhub
+         
+         * deploy the docker image to k8s.
 
