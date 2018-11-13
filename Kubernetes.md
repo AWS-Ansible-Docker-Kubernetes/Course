@@ -4,8 +4,6 @@
 
 
 ### 1. About k8s & its archetecture
-
-    * kubernetes-cni
     
     * etcd
     
@@ -49,31 +47,48 @@
 
     * Creating/updating/removing/rollback deployments
     
-    * Creating/updating/removing/rollback services
+    * Creating services.
+    
+    * Expose the deployment.
+    
+    * kubeadm comands
+      
+         * kubeadm version
+         * kubeadm init
+         * kubeadm join
+         * kubeadm reset
+         * kubeadm token
+         * kubeadm config
+    
+    * kops commands
+    
+         * kops version
+         * kops create
+         * kops update
+         * kops edit
+         * kops get
+         * kops validate
+         * kops delete
 
 ### 6. kubectl commands & examples.
 
-    * kubectl expose
-    
-    * kubectl run
-    
-    * kubectl svc
-    
-    * kubectl scale
-    
-    * kubectl get
-   
-    * kubectl dashboard
-    
-    * kubectl describe
-    
-    * kubectl create
-    
-    * kubectl apply
-    
-    * kubectl delete
-    
+    * kubectl help    
+    * kubectl cluster-info    
+    * kubectl expose    
+    * kubectl run    
+    * kubectl expose    
+    * kubectl plugin    
+    * kubectl scale    
+    * kubectl get   
+    * kubectl dashboard    
+    * kubectl describe    
+    * kubectl create    
+    * kubectl apply    
+    * kubectl delete    
     * kubectl exec
+    * kubectl cp
+    * kubectl rollout    
+    * kubectl proxy
 
 ### 7. Examples on Jenkins + Github + maven + nexus + docker + k8s.
 
