@@ -22,6 +22,8 @@
     * node (master & worker)
     
     * pod
+    
+    * container runtime
 
 ### 2. Docker Swarm vs k8s.
 
