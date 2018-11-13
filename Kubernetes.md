@@ -3,31 +3,51 @@
 ![image](https://user-images.githubusercontent.com/24622526/48015484-4456b800-e14f-11e8-876a-498cd73db5c1.png)
 
 
-### 1. About k8s & its archetecture
-    
-    * etcd
-    
-    * kubectl
-    
-    * API Server
-    
-    * kubelet
-    
-    * kube-proxy
-    
-    * kube-scheduler
-    
-    * kube-controller-manager
-    
-    * node (master & worker)
-    
-    * pod
-    
-    * container runtime
+### 1. About k8s.
 
 ### 2. Docker Swarm vs k8s.
 
-### 3. nodes, pods, deployments, services, labels, replica sets, namespace, volume etc
+### 3. k8s archetecture & components.
+
+    * Master
+    
+    * Node
+    
+    * Pod
+    
+    * components
+        * Master components
+            * etcd       
+            * kube-apiserver
+            * kube-scheduler
+            * kube-controller-manager
+                * Node Controller
+                * Replication Controller
+                * Endpoints Controller
+                * Service Account & Token Controllers
+            * cloud-controller-manager
+                * Node Controller
+                * Replication Controller
+                * Endpoints Controller
+                * Service Account & Token Controllers
+            * kubectl
+        * Node components
+            * kubelet
+            * kube-proxy
+            * Container Runtime
+            
+        * Cluster DNS
+        
+        * Web UI (Dashboard)
+        
+        * Container Resource Monitoring
+        
+        * Cluster-level Logging    
+
+### 3. Kuernetes Objects:
+
+     * objects
+     nodes, pods, deployments, services, labels, replica sets, namespace, volume etc
 
 ### 4. Single-node cluster - minikube
 
