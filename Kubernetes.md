@@ -116,6 +116,9 @@
     * kubectl cp
     * kubectl rollout    
     * kubectl proxy
+    * kubectl autoscale
+    * kubectl attach
+    * kubectl replace
 
 ### 7. Examples on Jenkins + Github + maven + nexus + docker + k8s.
 
