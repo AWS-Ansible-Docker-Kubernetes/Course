@@ -46,8 +46,11 @@
 
 ### 3. Kuernetes Objects:
 
-     * objects
-     nodes, pods, deployments, services, labels, replica sets, namespace, volume etc
+     * Names
+     * Namespaces
+     * Labels and Selectors
+     * Annotations
+     * Field Selectors
 
 ### 4. Single-node cluster - minikube
 
