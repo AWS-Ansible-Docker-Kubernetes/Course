@@ -49,6 +49,8 @@
 
     * Creating/updating/removing/rollback deployments
     
+        * deplloyments using yml files
+    
     * Creating services.
     
     * Expose the deployment.
