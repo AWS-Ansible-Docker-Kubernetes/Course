@@ -96,6 +96,8 @@
          * kops get
          * kops validate
          * kops delete
+         
+    * Dashboard UI
 
 ### 6. kubectl commands & examples.
 
@@ -119,8 +121,16 @@
     * kubectl autoscale
     * kubectl attach
     * kubectl replace
+    
+### 7. Kubernetes Storage
 
-### 7. Examples on Jenkins + Github + maven + nexus + docker + k8s.
+    * Volumes
+    
+    * Persistent Volume
+    
+    * Difference b/w Volumes & Persistent Volume
+
+### 8. Examples on Jenkins + Github + maven + nexus + docker + k8s.
 
     * Jenkins, git, maven, nexus, docker, k8s installation on AWS EC2 instance
     
