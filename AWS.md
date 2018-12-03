@@ -26,7 +26,6 @@
             * EC2 Instance Types
             * Attaching EBS Volumes
             * EBS Snapshots
-            * AWS CLI
 
 ### 2. VPC
 
@@ -86,5 +85,15 @@
      
      * Route 53 Hosted Zones 
 
+### 10. AWS CLI
+    
+    Create/remove
+    
+    * EC2 instance.
+    * S3 bucket.
+    * Load Configuration & Autoscale group.
+    * Load Balancer & Target Groups.
+    * VPC, Subnet
+    * IAM
 
 ### Note: The above course will cover the topics for - AWS Solution Architect Associate Certification.
