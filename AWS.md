@@ -71,13 +71,9 @@
     
     * S3 storage classes
 
-### 6. Monitoring - Cloud Watch
+### 6. AWS Elastic Beanstalk
 
-### 7. Cloud Formation
-
-### 8. AWS Elastic Beanstalk
-
-### 9. Route53
+### 7. Route53
 
      * Amazon Route 53 Overview
      
@@ -85,7 +81,7 @@
      
      * Route 53 Hosted Zones 
 
-### 10. AWS CLI
+### 8. AWS CLI
     
     Create/remove
     
