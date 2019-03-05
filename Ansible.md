@@ -13,5 +13,3 @@
 ### Jenkins with Ansible Ad-hoc & Playbooks examples.
 
 ### Ansible roles.
-
-### Ansible tower.
